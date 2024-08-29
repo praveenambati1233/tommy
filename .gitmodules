@@ -1,0 +1,3 @@
+[submodule "chicken"]
+	path = chicken
+	url = https://github.com/praveenambati1233/chicken
